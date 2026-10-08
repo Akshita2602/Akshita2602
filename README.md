@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Akshita&fontSize=60&fontColor=ffffff&desc=CS%20Undergrad%20%7C%20Python%20%26%20SQL%20%7C%20Aspiring%20Software%20%2F%20Data%20Intern&descSize=18&descAlignY=65)
+![Banner](banner.svg)
 
 ![Open to internships](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00c853?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,3 +21,20 @@ const akshita = {
   available    : true
 };
 ```
+
+## 🛠️ Tech I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🚀 Featured Project
+
+**[Self-Correcting Text-to-SQL Agent](https://github.com/Akshita2602/text-to-sql-agent)**
+Turns plain English questions into SQL queries.
+
+## 📫 Connect With Me
+
+- GitHub: [Akshita2602](https://github.com/Akshita2602)
